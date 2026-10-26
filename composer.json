@@ -1,0 +1,5 @@
+{
+    "require": {
+        "hadder/nfse-nacional": "^1.0"
+    }
+}

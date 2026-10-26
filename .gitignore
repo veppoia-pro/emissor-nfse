@@ -1,0 +1,18 @@
+/vendor/
+/certificados/
+/logs/
+/xml/
+*.pem
+*.pfx
+*.p12
+*.key
+*.log
+/nfse_*.xml
+/ultimo_numero_dps.txt
+/config.local.php
+.env
+.env.*
+!.env.example
+/* copy*.php
+.DS_Store
+Thumbs.db
